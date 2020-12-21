@@ -11,6 +11,7 @@
     --bg: #f5f5f5;
     --sbg: #e4e6e6;
     --fg: #3a3a3a;
+    --green: #98c379;
 
     /* Image background  */
 
@@ -173,6 +174,7 @@ body {
 
 #day {
     margin-left: 20px;
+    color: var(--green);
 }
 
 #greetings {
